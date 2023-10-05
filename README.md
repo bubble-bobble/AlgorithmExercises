@@ -13,3 +13,4 @@
 9. [Birthday cake candles](/AlgorithmExercises/09-BitrhdayCakeCandles/BirthdayCakeCandles.md)
 10. [Time conversion](/AlgorithmExercises/10-TimeConversion/TimeConversion.md)
 11. [Grading students](/AlgorithmExercises/11-GradingStudents/GradingStudents.md)
+12. [Apple and orange](/AlgorithmExercises/12-AppleAndOrange/AppleAndOrange.md)
